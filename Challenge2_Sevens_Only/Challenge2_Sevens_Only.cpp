@@ -1,4 +1,6 @@
 // Challenge2_Sevens_Only.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 
+// Write a program that loops through and array of 10 numbers and prints out the indices of the array which contain the number 7. For example, if the array is [1, 7, 3, 7, 5, 7, 7, 9, 10], the program should print out 1, 3, 5, 6.
 //
 
 #include <iostream>
@@ -7,6 +9,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    int arr[]
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
