@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77ABEEF4-2D80-48B5-8880-64773E1E3F1F}|Challenge_arrayValidation2\\Challenge_arrayValidation2.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge_arrayValidation2\\Challenge_arrayValidation2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77ABEEF4-2D80-48B5-8880-64773E1E3F1F}|Challenge_arrayValidation2\\Challenge_arrayValidation2.vcxproj|solutionrelative:Challenge_arrayValidation2\\Challenge_arrayValidation2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593500B-A0EC-49AA-9BA8-0B604512F1EA}|Challenge_arrayValidation\\Challenge_arrayValidation.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge_arrayValidation\\Challenge_arrayValidation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4593500B-A0EC-49AA-9BA8-0B604512F1EA}|Challenge_arrayValidation\\Challenge_arrayValidation.vcxproj|solutionrelative:Challenge_arrayValidation\\Challenge_arrayValidation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31E2182-CA34-42CA-8D6D-43F2B7051C02}|Challenge4_customCalculator\\Challenge4_customCalculator.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge4_customCalculator\\Challenge4_customCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F31E2182-CA34-42CA-8D6D-43F2B7051C02}|Challenge4_customCalculator\\Challenge4_customCalculator.vcxproj|solutionrelative:Challenge4_customCalculator\\Challenge4_customCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E93F754-37F7-4B38-B144-A05BAA2D4D74}|RollercoasterCheck\\RollercoasterCheck.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\RollercoasterCheck\\RollercoasterCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E93F754-37F7-4B38-B144-A05BAA2D4D74}|RollercoasterCheck\\RollercoasterCheck.vcxproj|solutionrelative:RollercoasterCheck\\RollercoasterCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4137DCD-D98F-4E02-A83B-4676B08CEFB8}|Challenge2_Sevens_Only\\Challenge2_Sevens_Only.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge2_Sevens_Only\\Challenge2_Sevens_Only.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4137DCD-D98F-4E02-A83B-4676B08CEFB8}|Challenge2_Sevens_Only\\Challenge2_Sevens_Only.vcxproj|solutionrelative:Challenge2_Sevens_Only\\Challenge2_Sevens_Only.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977E4F80-4B82-4D5B-B435-0FB8B9C70525}|TimeConversion\\TimeConversion.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\TimeConversion\\TimeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{977E4F80-4B82-4D5B-B435-0FB8B9C70525}|TimeConversion\\TimeConversion.vcxproj|solutionrelative:TimeConversion\\TimeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9D25-014E-47AA-A801-8C7243547B74}|Prog_Basics\\Prog_Basics.vcxproj|C:\\Users\\rodneyw\\source\\repos\\Assignments\\Prog_Basics\\Prog_Basics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8FA9D25-014E-47AA-A801-8C7243547B74}|Prog_Basics\\Prog_Basics.vcxproj|solutionrelative:Prog_Basics\\Prog_Basics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Challenge_arrayValidation2.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge_arrayValidation2\\Challenge_arrayValidation2.cpp",
+              "RelativeDocumentMoniker": "Challenge_arrayValidation2\\Challenge_arrayValidation2.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge_arrayValidation2\\Challenge_arrayValidation2.cpp",
+              "RelativeToolTip": "Challenge_arrayValidation2\\Challenge_arrayValidation2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T15:34:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Challenge_arrayValidation.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge_arrayValidation\\Challenge_arrayValidation.cpp",
+              "RelativeDocumentMoniker": "Challenge_arrayValidation\\Challenge_arrayValidation.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge_arrayValidation\\Challenge_arrayValidation.cpp",
+              "RelativeToolTip": "Challenge_arrayValidation\\Challenge_arrayValidation.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T15:13:52.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Challenge4_customCalculator.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge4_customCalculator\\Challenge4_customCalculator.cpp",
+              "RelativeDocumentMoniker": "Challenge4_customCalculator\\Challenge4_customCalculator.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge4_customCalculator\\Challenge4_customCalculator.cpp",
+              "RelativeToolTip": "Challenge4_customCalculator\\Challenge4_customCalculator.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T14:28:42.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Challenge2_Sevens_Only.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge2_Sevens_Only\\Challenge2_Sevens_Only.cpp",
+              "RelativeDocumentMoniker": "Challenge2_Sevens_Only\\Challenge2_Sevens_Only.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Challenge2_Sevens_Only\\Challenge2_Sevens_Only.cpp",
+              "RelativeToolTip": "Challenge2_Sevens_Only\\Challenge2_Sevens_Only.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T14:14:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RollercoasterCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\RollercoasterCheck\\RollercoasterCheck.cpp",
+              "RelativeDocumentMoniker": "RollercoasterCheck\\RollercoasterCheck.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\RollercoasterCheck\\RollercoasterCheck.cpp",
+              "RelativeToolTip": "RollercoasterCheck\\RollercoasterCheck.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T19:30:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeConversion.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\TimeConversion\\TimeConversion.cpp",
+              "RelativeDocumentMoniker": "TimeConversion\\TimeConversion.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\TimeConversion\\TimeConversion.cpp",
+              "RelativeToolTip": "TimeConversion\\TimeConversion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T16:03:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prog_Basics.cpp",
+              "DocumentMoniker": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Prog_Basics\\Prog_Basics.cpp",
+              "RelativeDocumentMoniker": "Prog_Basics\\Prog_Basics.cpp",
+              "ToolTip": "C:\\Users\\rodneyw\\source\\repos\\Assignments\\Prog_Basics\\Prog_Basics.cpp",
+              "RelativeToolTip": "Prog_Basics\\Prog_Basics.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T14:33:14.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
