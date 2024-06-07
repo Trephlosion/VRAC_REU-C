@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f6873921-5e45-49ab-aa55-62f7a3530f7c}</ProjectGuid>
-    <RootNamespace>ModelDice</RootNamespace>
+    <ProjectGuid>{183cad99-4fc3-4964-9a72-144ee48f6f83}</ProjectGuid>
+    <RootNamespace>multifile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="app_dice.cpp" />
-    <ClCompile Include="ModelDice.cpp" />
+    <ClCompile Include="multifile.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dice.h" />
+    <ClInclude Include="die.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

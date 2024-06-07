@@ -15,15 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ModelDice.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="app_dice.cpp">
+    <ClCompile Include="multifile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dice.h">
+    <ClInclude Include="die.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
